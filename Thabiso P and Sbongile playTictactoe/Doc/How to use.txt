@@ -1,0 +1,7 @@
+The application has to files using eclipse run the server class 
+while the server is waiting run the client
+The client will prompt for Port number = 9090
+And the server host is localhost.
+The client will play the game on their command line 
+while playing the server will validate and return the appropriate message .
+every correct move will be logged by the server.

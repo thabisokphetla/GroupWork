@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: bbdnet1463
+Build-Jdk: 1.8.0_101
+Created-By: Maven Integration for Eclipse
+
+Name: nb-mindmap-plugin
+reference: Plugin for NB Mind Map
+compatible: *
+plugins: Tictactoe_koketso.org.tictactoe.Plugin
+author: koketso Seopela
+api: 1.2.0
+title: NB Mind Map Plugin
+version: 0.0.1-SNAPSHOT
+
